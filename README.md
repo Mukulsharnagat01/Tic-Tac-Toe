@@ -6,6 +6,10 @@ A simple, browser-based Tic-Tac-Toe game built with vanilla JavaScript, HTML5, a
 
 This project brings the classic Tic-Tac-Toe experience to your browser. You can play with a friend on the same screen, and the game includes features like win detection, draw detection, and a reset option to start fresh at any time.
 
+## 🎮 Play the Game
+
+[Click here to play Tic-Tac-Toe]( https://mukulsharnagat01.github.io/Tic-Tac-Toe/)
+
 ## Features
 
 - **Two-player mode**, played locally in the browser.
